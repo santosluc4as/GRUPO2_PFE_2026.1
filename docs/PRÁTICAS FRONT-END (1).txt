@@ -15,7 +15,7 @@ Visão geral do projeto:
 - O projeto tem como objetivo criar uma página web para divulgar o evento universitário de doação de sangue em parceria com o Hemorio. A página terá como objetivo informar os alunos sobre a importância da doação, explicar como participar do evento e fazer com que as pessoas se sintam incentivadas a contribuir com a ação solidária. Caso o aluno decida participar da doação, ele ganhará 40 horas complementares.
 
 
-Público-alvo👹: 
+Público-alvo: 
 
 - Estudantes, professores e funcionários do IBMEC
 
