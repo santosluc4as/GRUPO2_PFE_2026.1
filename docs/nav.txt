@@ -1,0 +1,1 @@
+Utilizar uma imagem do logo em svg
