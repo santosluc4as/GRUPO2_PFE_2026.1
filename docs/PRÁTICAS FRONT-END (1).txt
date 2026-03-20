@@ -1,0 +1,59 @@
+﻿DOCUMENTO DE VISÃO
+
+conceito base:
+Realizar uma parceria com a hemorio      
+Palestras de conscientização             
+https://www.hemorio.rj.gov.br/
+
+
+
+
+
+
+Visão geral do projeto: 
+
+- O projeto tem como objetivo criar uma página web para divulgar o evento universitário de doação de sangue em parceria com o Hemorio. A página terá como objetivo informar os alunos sobre a importância da doação, explicar como participar do evento e fazer com que as pessoas se sintam incentivadas a contribuir com a ação solidária. Caso o aluno decida participar da doação, ele ganhará 40 horas complementares.
+
+
+Público-alvo: 
+
+- Estudantes, professores e funcionários do IBMEC
+
+Escopo do Sistema:
+
+
+- O sistema será uma página informativa sobre o evento. Ela deve apresentar informações sobre a campanha, explicar como participar, mostrar todos os requisitos para doação e facilitar a inscrição dos interessados. O objetivo principal é não criar um sistema complexo, e sim uma página simples, intuitiva e funcional.
+
+
+Oportunidade de Mercado:
+
+
+- Campanhas de doação são muito importantes, e não são divulgadas com a devida importância dentro das universidades. Fazer a criação de uma página específica para esse evento pode melhorar a comunicação, aumentar o alcance da campanha e incentivar mais pessoas a participarem.
+
+
+
+
+
+
+
+
+
+Descrição do Problema:
+Manutenção do Banco de Sangue do Brasil 
+O Banco de Sangue brasileiro enfrenta níveis baixos ou críticos de estoque em 2026, especialmente de tipos O+, O-, A- e B-, com até 11 estados sofrendo com a baixa adesão de doadores de sangue, criando dificuldades na realização de cirurgias de urgência, emergência e pacientes oncológicos e crônicos. 
+________________
+
+
+
+
+https://liveestacio-my.sharepoint.com/personal/02803532786_professores_ibmec_edu_br/_layouts/15/onedrive.aspx?viewid=c5eb7c4f%2D9c5c%2D4a34%2D809f%2Dd1dbfd1c0198&ct=1774007386405&or=OWA%2DNT%2DMail&id=%2Fpersonal%2F02803532786%5Fprofessores%5Fibmec%5Fedu%5Fbr%2FDocuments%2F2026%2E1%2FPFE%2Fmateriais%20PFE%2FProjeto%20Front%2Dend%2Epdf&parent=%2Fpersonal%2F02803532786%5Fprofessores%5Fibmec%5Fedu%5Fbr%2FDocuments%2F2026%2E1%2FPFE%2Fmateriais%20PFE
+Documento de visão: Define a ideia central do projeto e registra as etapas do processo.
+  
+________________
+
+Documento de visão
+Seção 1.
+        Artigo 1.1. Objetivo: Divulgar a o evento universitário da campanha de doação de sangue em parceria com o Hemorio.
+        Artigo 1.2. Público-alvo: Estudantes, professores e outros funcionários do IBMEC.
+        Artigo 1.3. Escopo: Criação de um site para informar os alunos sobre a importância da doação. Além de 
+O projeto tem como objetivo criar uma página web para divulgar o evento universitário de doação de sangue em parceria com o Hemorio. A página terá como objetivo informar os alunos sobre a importância da doação, explicar como participar do evento e fazer com que as pessoas se sintam incentivadas a contribuir com a ação solidária. Caso o aluno decida participar da doação, ele ganhará 40 horas complementares.
