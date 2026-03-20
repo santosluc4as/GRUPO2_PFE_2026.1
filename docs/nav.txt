@@ -1,1 +1,4 @@
 Utilizar uma imagem do logo em svg
+Tirar redundancias como "associa-se a ACBrasil"
+Suavizar as cores do mouse hoover (quando o mouse vai em cima de algo)
+Melhorar a rensposavidade do header
