@@ -16,3 +16,5 @@ Divulgar notícias e artigos
 - muito conteúdo redundante
 - responsividade
 - Footer muito redundante
+- Consertar cores das fontes
+- Consertar links quebrados
