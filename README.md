@@ -23,3 +23,4 @@ FAZER UMA NOVA VERSÃO REVISADA DO SITE acbrasil.org.br
 ## Pontos de atenção na referência
 - [Melhorias observadas por Lucas Santos](./docs/melhorias_lucassantos.txt)
 - [Melhorias observadas por Pedro Lucas](./docs/melhorias_pedrolucas.txt)
+- [Melhorias observadas por Bernardo Chagas](./docs/melhorias_bernardochagas.txt)
