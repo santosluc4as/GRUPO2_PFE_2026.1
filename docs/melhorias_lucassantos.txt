@@ -1,0 +1,13 @@
+MELHORIAS PARA O SITE ACBRASIL: (Lucas Santos-scrummaster)
+- o Header atual é patético: Revisar as cores, retirar o "menu associado" bugado , 
+- o ícone do whatsapp está por cima da verificação kaptcha
+- colocar o ícone kaptcha no footer
+- footer com informações demais. Simplificar ele.
+- o ícone home do footer não funciona. colocar um botão que leve o usuário a página inicial
+- Englobar as opções do header (EX: Quem somos e o que fazemos - trocar por "Quem somos?"
+- links no geral não estão funcionando, revisar isso
+- o ícone da busca não tem recomendação de texto , o usuário não sabe o qual tipo de informação ele pode inserir.
+- parte de ARTIGOS RECENTES deve ser simplificada.
+- parte EM DESTAQUE deve ser simmplificada
+- diminuição do footer
+- direitos autorais desatualizados
