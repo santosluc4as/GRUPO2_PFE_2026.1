@@ -8,8 +8,20 @@ referência: [acbrasil.org.br](https://acbrasil.org.br/cms/)
 
 Conseguir associados
 Divulgar notícias e artigos
+FAZER UMA NOVA VERSÃO REVISADA DO SITE acbrasil.org.br
+
+### links uteis da documentação: (AP1)
+- [5W2H]()
+- [BRAINSTORM]()
+- [MAPA MENTAL]()
+- [SCRUM]()
+- [PROTÓTIPO NO FIGMA]()
+- [ANÁLISE DE TAREFAS]()
+- [DOCUMENTO DE VISÃO]()
+- [SPRINTS EM SCRUM]()
 
 ### Pontos de atenção na referência
+- [melhorias observadas por Lucas Santos](./docs/melhorias_lucassantos.txt)
 - botões sobrepostos no canto inferior direito
 - menu associado no Header
 - imagem do Header em png (melhor em svg)
