@@ -11,14 +11,14 @@ Divulgar notícias e artigos
 FAZER UMA NOVA VERSÃO REVISADA DO SITE acbrasil.org.br
 
 ### links uteis da documentação: (AP1)
-- [5W2H]()
+- [5W2H]() (em andamento)
 - [BRAINSTORM](https://grupo2pfe2026.atlassian.net/wiki/external/NzQxODNjMGI1N2EyNDI5M2FkYTAzZTE2MThjM2ZmMDM)
-- [MAPA MENTAL]()
-- [SCRUM]()
-- [PROTÓTIPO NO FIGMA]()
-- [ANÁLISE DE TAREFAS]()
-- [DOCUMENTO DE VISÃO]()
-- [SPRINTS EM SCRUM]()
+- [MAPA MENTAL]() (em andamento)
+- [SCRUM]() (em andamento)
+- [PROTÓTIPO NO FIGMA]() (em andamento)
+- [ANÁLISE DE TAREFAS]() (em andamento)
+- [DOCUMENTO DE VISÃO]() (em andamento)
+- [SPRINTS EM SCRUM]() (em andamento)
 
 ### Pontos de atenção na referência
 - [melhorias observadas por Lucas Santos](./docs/melhorias_lucassantos.txt)
