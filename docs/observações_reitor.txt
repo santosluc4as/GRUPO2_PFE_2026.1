@@ -8,10 +8,16 @@ azul escuro , preto.
 A Logo permanece a mesma.
 Padrão de Newsletter.
 
--abas necessárias : 
-o que somos , o que fazemos ,contato , aba de associados ,ferramenta blog associada 
+-abas necessárias: 
+o que somos 
+o que fazemos 
+contato 
+aba de associados 
+ferramenta blog associada 
 
--Quadro de RSS (via API) - esse git quadro será encaminhado via e-mail
+-Quadro de RSS (via API) - esse quadro será encaminhado via e-mail
 
--ao entrar o usuário deve ver: notíciais mais recentes , 
-próximos eventos, ultimos eventos que aconteceram no blog.
+-ao entrar o usuário deve ver: 
+notíciais mais recentes 
+próximos eventos
+ ultimos eventos que aconteceram no blog.
