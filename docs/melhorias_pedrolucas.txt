@@ -1,0 +1,14 @@
+Pontos negativos do site AC Brasil (Pedro Lucas)
+
+
+1- logo em PNG
+2- [menu-associado] ????
+3- whatsapp sobrepondo o captcha
+4- a seta para voltar pra cima está sobrepondo o captcha e sendo sobrepondo pelo whatsapp
+5- seção artigos no nav e no header
+7- parte "fique por dentro dos nossos webinars" levando pra lugar algum
+8- seção "mais artigos" também não leva pra lugar algum
+9- "acb-newsletter" embaixo de "sobre a associação"
+10- "seja um associado" não leva a lugar algum
+11- Links úteis repetindo o que tem no nav, porém acima do footer
+12- "quem somos" repetido no nav e acima do footer
