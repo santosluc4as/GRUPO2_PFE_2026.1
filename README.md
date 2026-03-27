@@ -6,8 +6,8 @@ referência: [acbrasil.org.br](https://acbrasil.org.br/cms/)
 
 ### Objetivo do site
 
-Conseguir associados
-Divulgar notícias e artigos
+Conseguir associados    
+Divulgar notícias e artigos     
 FAZER UMA NOVA VERSÃO REVISADA DO SITE acbrasil.org.br
 
 ### links uteis da documentação: (AP1)
