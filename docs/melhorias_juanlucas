@@ -1,0 +1,12 @@
+- Menu responsivo desorganizado e visualmente “porco”
+- Falta de algumas mídias socias da instituição
+- Redundância: Área de “Deixe sua mensagem” dentro de “O que fazemos” podendo ser unificadas em “Sobre a Instituição”
+- Logo quebrada em telas menores
+- Na área de “Associados Fundadores” quando se clica nas imagens ilustrativas manda o usuário para um link quebrado
+- Páginas como “O que fazemos” e “Quem somos” podem ser unificadas em uma única página chamada “Sobre a Instituição”
+- Link para "login" só aparece no menu responsivo
+- Na navbar o "Associe-se a ACbrasil" pode ser colocado em destaque com alguma cor especifica e dentro de uma box no canto superior direito além de dedicar a landing page para incentivar o usuário a se associar.
+- A lupa de search por pode ser colocado em um lugar melhor
+- Imagens de logo e icones a serem colocados em svg e garantir "lazy loading" nas diversas imagens utilizadas no site.
+- Colocar uma suavização no hoover dos links da navbar
+- Utilizar fontes classicas para garantir o tom institucional da página como montserrat
