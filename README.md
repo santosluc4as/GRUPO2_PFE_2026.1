@@ -12,7 +12,7 @@ FAZER UMA NOVA VERSÃO REVISADA DO SITE acbrasil.org.br
 
 ### links uteis da documentação: (AP1)
 - [5W2H]()
-- [BRAINSTORM]()
+- [BRAINSTORM](https://grupo2pfe2026.atlassian.net/wiki/external/NzQxODNjMGI1N2EyNDI5M2FkYTAzZTE2MThjM2ZmMDM)
 - [MAPA MENTAL]()
 - [SCRUM]()
 - [PROTÓTIPO NO FIGMA]()
