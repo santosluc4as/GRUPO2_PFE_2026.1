@@ -1,0 +1,17 @@
+*ANOTAÇÕES GERAIS VISITA DO REITOR AULA 27/03
+-Cliente: ACBRASIL
+
+-os membros da associação são voluntários
+
+-Repensar estrutura , design , teoria das cores : preferefência por marrom ,cinza, amarelo , 
+azul escuro , preto.
+A Logo permanece a mesma.
+Padrão de Newsletter.
+
+-abas necessárias : 
+o que somos , o que fazemos ,contato , aba de associados ,ferramenta blog associada 
+
+-Quadro de RSS (via API) - esse git quadro será encaminhado via e-mail
+
+-ao entrar o usuário deve ver: notíciais mais recentes , 
+próximos eventos, ultimos eventos que aconteceram no blog.
