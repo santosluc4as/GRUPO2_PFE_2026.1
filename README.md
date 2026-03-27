@@ -18,3 +18,4 @@ Divulgar notícias e artigos
 - Footer muito redundante
 - Consertar cores das fontes
 - Consertar links quebrados
+- Falta de acessebilidade
