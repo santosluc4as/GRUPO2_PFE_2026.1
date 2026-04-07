@@ -14,7 +14,7 @@ FAZER UMA NOVA VERSÃO REVISADA DO SITE acbrasil.org.br
 - [5W2H]() (em andamento)
 - [BRAINSTORM](https://grupo2pfe2026.atlassian.net/wiki/external/NzQxODNjMGI1N2EyNDI5M2FkYTAzZTE2MThjM2ZmMDM)
 - [MAPA MENTAL]() (em andamento)
-- [SCRUM]() (https://github.com/santosluc4as/GRUPO2_PFE_2026.1.git)
+- [SCRUM]() (https://santosluc4as.atlassian.net/jira/software/projects/SCRUM/boards/1)
 - [PROTÓTIPO NO FIGMA]() (em andamento)
 - [ANÁLISE DE TAREFAS]() (em andamento)
 - [DOCUMENTO DE VISÃO]() (em andamento)
