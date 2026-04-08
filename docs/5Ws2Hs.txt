@@ -1,9 +1,9 @@
 5Ws:
 - What? (O quê?)
-    .Recriar o site da ACB com melhorias.
+    .Recriar o site da ACB, propondo melhorias visuais, técnicas e de acessibilidade.
     
 - Why? (Por quê?)
-    . Porque o site tem muitos problemas visuais, técnicos e de acessibilidade
+    . Porque o site tem muitos problemas visuais, técnicos e de acessibilidade, comprometendo a experiência do usuário e a qualidade da navegação.
 
 - Who? (Quem?)
     . Scrum-Master: Lucas Santos
