@@ -1,13 +1,17 @@
 5Ws:
 - What? (O quê?)
     .Recriar o site da ACB com melhorias.
+    
 - Why? (Por quê?)
     . Porque o site tem muitos problemas visuais, técnicos e de acessibilidade
+
 - Who? (Quem?)
     . Scrum-Master: Lucas Santos
     . Outros integrantes: Bernardo Lopes, Brenno Marques, Juan Lucas, Marcus Vinicius, Pedro Lucas e Rodrigo Abranches 
+
 - Where? (Onde?)
     . No Ibmec
+
 - When? (Quando?)
     . Entrega do protótipo no dia 17/04/26
     . Entrega em Vanilla entre os dias 08/05/26 e 22/05/26  
@@ -15,5 +19,7 @@
 
 2Hs:
 - How? (Como?)
+    . Será feito um protótipo no Figma e no Github do design do site, seguido de um site em Vanilla usando html, Css e JavaScript, publicado no github e um site final em React no Vercel.
 
 - How much? (Quanto?)
+    . O projeto tem custo 0. Sendo feito usando ferramentas gratuitas e se baseando principalmente na escrita de códigos e design gráfico.
