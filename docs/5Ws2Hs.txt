@@ -1,0 +1,30 @@
+5Ws:
+- What? (O quê?)
+    .Recriar o site da ACB, propondo melhorias visuais, técnicas e de acessibilidade.
+    
+- Why? (Por quê?)
+    . Porque o site apresenta problemas visuais, técnicos e de acessibilidade, comprometendo a experiência do usuário e a qualidade da navegação.
+
+- Who? (Quem?)
+    . A equipe de desenvolvedores será responsável sob orientação do Scrum Master, seguindo o framework Scrum.
+    . Scrum Master: Lucas Santos
+    . Equipe de Desenvolvedores: Bernardo Lopes, Brenno Marques, Juan Lucas, Marcus Vinicius, Pedro Lucas e Rodrigo Abranches 
+
+- Where? (Onde?)
+    . No ambiente acadêmico do Ibmec.
+
+- When? (Quando?)
+    . Entrega do protótipo: 17/04/2026
+    . Entrega em Vanilla: entre 08/05/2026 e 22/05/2026  
+    . Entrega em React: 12/06/2026
+
+2Hs:
+- How? (Como?)
+    . O projeto será desenvolvido em etapas.
+    . Primeiro, será criado um protótipo no Figma para planejar a interface e a experiência do usuário.
+    . Em seguida, será desenvolvida uma versão em HTML, CSS e JavaScript Vanilla, com versionamento e publicação no GitHub.
+    . Por fim, será feita a versão final do site em React, com publicação no Vercel. 
+    . Além disso, será utilizado o framework Scrum para a organização do projeto, estruturando o desenvolvimento em sprints.
+
+- How much? (Quanto?)
+    . O projeto não possui custo financeiro direto, considerando o uso de ferramentas gratuitas e o desenvolvimento realizado pelos integrantes da equipe.
