@@ -3,7 +3,7 @@
     .Recriar o site da ACB, propondo melhorias visuais, técnicas e de acessibilidade.
     
 - Why? (Por quê?)
-    . Porque o site tem muitos problemas visuais, técnicos e de acessibilidade, comprometendo a experiência do usuário e a qualidade da navegação.
+    . Porque o site apresenta problemas visuais, técnicos e de acessibilidade, comprometendo a experiência do usuário e a qualidade da navegação.
 
 - Who? (Quem?)
     . A equipe de desenvolvedores será responsável sob orientação do Scrum Master, seguindo o framework Scrum.
@@ -11,7 +11,7 @@
     . Equipe de Desenvolvedores: Bernardo Lopes, Brenno Marques, Juan Lucas, Marcus Vinicius, Pedro Lucas e Rodrigo Abranches 
 
 - Where? (Onde?)
-    . No Ibmec
+    . No ambiente acadêmico do Ibmec.
 
 - When? (Quando?)
     . Entrega do protótipo: 17/04/2026
