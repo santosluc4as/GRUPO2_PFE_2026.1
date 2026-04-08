@@ -20,7 +20,11 @@
 
 2Hs:
 - How? (Como?)
-    . Será feito um protótipo no Figma e no Github do design do site, seguido de um site em Vanilla usando html, Css e JavaScript, publicado no github e um site final em React no Vercel.
+    . O projeto será desenvolvido em etapas.
+    . Primeiro, será criado um protótipo no Figma para planejar a interface e a experiência do usuário.
+    . Em seguida, será desenvolvida uma versão em HTML, CSS e JavaScript Vanilla, com versionamento e publicação no GitHub.
+    . Por fim, será feita a versão final do site em React, com publicação no Vercel. 
+    . Além disso, será utilizado o framework Scrum para a organização do projeto, estruturando o desenvolvimento em sprints.
 
 - How much? (Quanto?)
-    . O projeto tem custo 0. Sendo feito usando ferramentas gratuitas e se baseando principalmente na escrita de códigos e design gráfico.
+    . O projeto não possui custo financeiro direto, considerando o uso de ferramentas gratuitas e o desenvolvimento realizado pelos integrantes da equipe.
