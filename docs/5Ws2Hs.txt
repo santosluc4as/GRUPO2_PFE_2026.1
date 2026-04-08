@@ -7,7 +7,11 @@
     . Scrum-Master: Lucas Santos
     . Outros integrantes: Bernardo Lopes, Brenno Marques, Juan Lucas, Marcus Vinicius, Pedro Lucas e Rodrigo Abranches 
 - Where? (Onde?)
+  . No Ibmec
 - When? (Quando?)
+  . Entrega do protótipo no dia 17/04/26
+  . Entrega em Vanilla entre os dias 08/05/26 e 22/05/26
+  . Entrega do site em React no dia 12/06/26
 
 2Hs:
 - How? (Como?)
