@@ -1,7 +1,11 @@
 5Ws:
 - What? (O quê?)
+    .Recriar o site da ACB com melhorias.
 - Why? (Por quê?)
+    . Porque o site tem muitos problemas visuais, técnicos e de acessibilidade
 - Who? (Quem?)
+    . Scrum-Master: Lucas Santos
+    . Outros integrantes: Bernardo Lopes, Brenno Marques, Juan Lucas, Marcus Vinicius, Pedro Lucas e Rodrigo Abranches 
 - Where? (Onde?)
 - When? (Quando?)
 
