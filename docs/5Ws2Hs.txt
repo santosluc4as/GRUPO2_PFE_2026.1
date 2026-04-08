@@ -6,16 +6,17 @@
     . Porque o site tem muitos problemas visuais, técnicos e de acessibilidade, comprometendo a experiência do usuário e a qualidade da navegação.
 
 - Who? (Quem?)
-    . Scrum-Master: Lucas Santos
-    . Outros integrantes: Bernardo Lopes, Brenno Marques, Juan Lucas, Marcus Vinicius, Pedro Lucas e Rodrigo Abranches 
+    . A equipe de desenvolvedores será responsável sob orientação do Scrum Master, seguindo o framework Scrum.
+    . Scrum Master: Lucas Santos
+    . Equipe de Desenvolvedores: Bernardo Lopes, Brenno Marques, Juan Lucas, Marcus Vinicius, Pedro Lucas e Rodrigo Abranches 
 
 - Where? (Onde?)
     . No Ibmec
 
 - When? (Quando?)
-    . Entrega do protótipo no dia 17/04/26
-    . Entrega em Vanilla entre os dias 08/05/26 e 22/05/26  
-    . Entrega do site em React no dia 12/06/26
+    . Entrega do protótipo: 17/04/2026
+    . Entrega em Vanilla: entre 08/05/2026 e 22/05/2026  
+    . Entrega em React: 12/06/2026
 
 2Hs:
 - How? (Como?)
