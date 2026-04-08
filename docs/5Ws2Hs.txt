@@ -1,0 +1,10 @@
+5Ws:
+- What? (O quê?)
+- Why? (Por quê?)
+- Who? (Quem?)
+- Where? (Onde?)
+- When? (Quando?)
+
+2Hs:
+- How? (Como?)
+- How much? (Quanto?)
