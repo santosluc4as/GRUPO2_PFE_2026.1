@@ -11,9 +11,9 @@ Divulgar notícias e artigos
 FAZER UMA NOVA VERSÃO REVISADA DO SITE acbrasil.org.br
 
 ## links uteis da documentação: (AP1)
-- [5W2H]() (em andamento)
+- [5W2H](./docs/5W2H/5Ws2Hs.txt)
 - [BRAINSTORM](https://grupo2pfe2026.atlassian.net/wiki/external/NzQxODNjMGI1N2EyNDI5M2FkYTAzZTE2MThjM2ZmMDM)
-- [MAPA MENTAL]() (em andamento)
+- [MAPA MENTAL](./docs/mindmap/MindMap.png)
 - [SCRUM](https://santosluc4as.atlassian.net/jira/software/projects/SCRUM/boards/1)
 - [PROTÓTIPO NO FIGMA]() (em andamento)
 - [ANÁLISE DE TAREFAS]() (em andamento)
@@ -21,7 +21,7 @@ FAZER UMA NOVA VERSÃO REVISADA DO SITE acbrasil.org.br
 - [SPRINTS EM SCRUM]() (em andamento)
 
 ## Pontos de atenção na referência
-- [Melhorias observadas por Lucas Santos](./docs/melhorias_lucassantos.txt)
-- [Melhorias observadas por Pedro Lucas](./docs/melhorias_pedrolucas.txt)
-- [Melhorias observadas por Juan Lucas](./docs/melhorias_juanlucas.txt)
-- [Melhorias observadas por Bernardo Chagas](./docs/melhorias_bernardochagas.txt)
+- [Melhorias observadas por Lucas Santos](./docs/melhorias/melhorias_lucassantos.txt)
+- [Melhorias observadas por Pedro Lucas](./docs/melhorias/melhorias_pedrolucas.txt)
+- [Melhorias observadas por Juan Lucas](./docs/melhorias/melhorias_juanlucas.txt)
+- [Melhorias observadas por Bernardo Chagas](./docs/melhorias/melhorias_bernardochagas.txt)
