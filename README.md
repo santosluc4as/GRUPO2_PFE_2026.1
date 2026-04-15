@@ -10,7 +10,7 @@ Conseguir associados
 Divulgar notícias e artigos     
 FAZER UMA NOVA VERSÃO REVISADA DO SITE acbrasil.org.br
 
-## links uteis da documentação: (AP1)
+## Links Úteis da Documentação: (AP1)
 - [5W2H](./docs/5W2H/5Ws2Hs.txt)
 - [BRAINSTORM](https://grupo2pfe2026.atlassian.net/wiki/external/NzQxODNjMGI1N2EyNDI5M2FkYTAzZTE2MThjM2ZmMDM)
 - [MAPA MENTAL](./docs/mindmap/MindMap.png)
@@ -18,7 +18,6 @@ FAZER UMA NOVA VERSÃO REVISADA DO SITE acbrasil.org.br
 - [PROTÓTIPO NO FIGMA](https://www.figma.com/proto/ToPu2u2VeOM0JV9OqfDlNa/Site-ACB---Ap1?node-id=1-2&p=f&viewport=-674%2C-452%2C0.44&t=lejKWMaBvhVj0Rjo-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 - [ANÁLISE DE TAREFAS]() (em andamento)
 - [DOCUMENTO DE VISÃO](./docs/DocumentoDeVisao/DocVisao.md)
-- [SPRINTS EM SCRUM]() (em andamento)
 
 ## Pontos de atenção na referência
 - [Melhorias observadas por Lucas Santos](./docs/melhorias/melhorias_lucassantos.txt)
