@@ -9,7 +9,8 @@
     . A equipe de desenvolvedores será responsável sob orientação do Scrum Master, seguindo o framework Scrum.
     . Scrum Master: Lucas Santos
     . Equipe de Desenvolvedores: Bernardo Lopes, Brenno Marques, Juan Lucas, Marcus Vinicius, Pedro Lucas e Rodrigo Abranches 
-
+    . Product Owner: Prof. Thiago Marcondes
+    . Clientes: Reitor do IBMEC e "ACB"
 - Where? (Onde?)
     . No ambiente acadêmico do Ibmec.
 
@@ -28,3 +29,4 @@
 
 - How much? (Quanto?)
     . O projeto não possui custo financeiro direto, considerando o uso de ferramentas gratuitas e o desenvolvimento realizado pelos integrantes da equipe.
+    . Apesar de não ter custo financeiro, o projeto possui custo temporal relativo a um semestre de aulas na disciplina Projeto Front-End.
