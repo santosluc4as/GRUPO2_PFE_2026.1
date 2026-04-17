@@ -1,4 +1,4 @@
-MELHORIAS PARA O SITE ACBRASIL: (Lucas Santos-scrummaster)
+## MELHORIAS PARA O SITE ACBRASIL (Lucas Santos-scrummaster) :
 - o Header atual é patético: Revisar as cores, retirar o "menu associado" bugado , 
 - o ícone do whatsapp está por cima da verificação kaptcha
 - colocar o ícone kaptcha no footer
